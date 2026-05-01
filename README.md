@@ -11,7 +11,7 @@
 
 ---
 
-## 💫 𝓞𝓿𝓮𝓻𝓿𝓲𝓮𝔀
+## 💫 OVERVIEW
 
 ✨ **MathMinder** is a modern frontend project designed to transform the way users interact with mathematics.  
 It blends **clean design + intuitive UX + performance** to create an engaging learning experience.
@@ -20,7 +20,7 @@ It blends **clean design + intuitive UX + performance** to create an engaging le
 
 ---
 
-## ⚡ 𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼
+## ⚡ FEATURES
 
 ✔️ 🎨 Minimal & elegant UI  
 ✔️ ⚡ Lightning-fast performance  
@@ -38,3 +38,16 @@ Frontend   → React.js ⚛️
 Styling    → CSS / Tailwind 🎨
 Build Tool → Vite / CRA ⚡
 Versioning → Git & GitHub 🔗
+
+
+## 🚀 𝓖𝓮𝓽𝓽𝓲𝓷𝓰 𝓢𝓽𝓪𝓻𝓽𝓮𝓭
+
+### 🔽 Clone the Repository
+git clone https://github.com/your-username/frontend_support_mathminder.git  
+cd frontend_support_mathminder
+
+### 📦 Install Dependencies
+npm install
+
+### ▶️ Run the App
+npm start
