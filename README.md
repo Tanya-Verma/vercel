@@ -23,10 +23,12 @@
 
 *🚀 Getting Started*
 
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/frontend_support_mathminder.git
-cd frontend_support_mathminder
-2️⃣ Install Dependencies
-npm install
-3️⃣ Run the App
-npm start
+1️⃣ Clone the Repository<br>
+git clone https://github.com/your-username/frontend_support_mathminder.git<br>
+cd frontend_support_mathminder<br>
+
+2️⃣ Install Dependencies<br>
+npm install<br>
+
+3️⃣ Run the App<br>
+npm start<br>
