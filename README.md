@@ -8,8 +8,13 @@
 
 ***✨ Features***<br>
 🎯 `Clean and modern UI design`<br>
+
 ⚡ `Fast and responsive performance`<br>
+
 📱 `Fully responsive (mobile + desktop)`<br>
+
 🧠 `User-friendly math interaction interface`<br>
+
 🔄 `Reusable and scalable components`<br>
+
 🎨 `Structured styling for easy customization`<br>
