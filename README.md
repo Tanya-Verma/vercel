@@ -22,7 +22,7 @@ It blends **clean design + intuitive UX + performance** to create an engaging le
 
 ##  FEATURES
 
-✔️ 🎨 Minimal & elegant UI  
+🎨 Minimal & elegant UI  
 ✔️ ⚡ Lightning-fast performance  
 ✔️ 📱 Fully responsive design  
 ✔️ 🧩 Modular component structure  
