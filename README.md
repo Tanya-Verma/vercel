@@ -24,10 +24,10 @@ It blends **clean design + intuitive UX + performance** to create an engaging le
 
 🎨 Minimal & elegant UI  
 ⚡ Lightning-fast performance  
-✔️ 📱 Fully responsive design  
-✔️ 🧩 Modular component structure  
-✔️ 🧠 Easy-to-use math interface  
-✔️ 🔄 Scalable architecture  
+📱 Fully responsive design  
+🧩 Modular component structure  
+🧠 Easy-to-use math interface  
+🔄 Scalable architecture  
 
 ---
 
