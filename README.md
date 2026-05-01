@@ -21,7 +21,7 @@
 🎨 `Structured styling for easy customization`<br>
 
 
-*🚀 Getting Started*
+*🚀 Getting Started*<br>
 
 1️⃣ Clone the Repository<br>
 git clone https://github.com/your-username/frontend_support_mathminder.git<br>
