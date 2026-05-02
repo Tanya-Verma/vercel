@@ -31,7 +31,7 @@ It blends **clean design + intuitive UX + performance** to create an engaging le
 
 ---
 
-## 🧠 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
+## 🧠 TECH STACK
 
 ```bash
 Frontend   → React.js ⚛️
