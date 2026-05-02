@@ -39,3 +39,17 @@ Styling    → CSS / Tailwind 🎨
 Build Tool → Vite / CRA ⚡
 Versioning → Git & GitHub 🔗
 
+Getting Started
+
+git clone https://github.com/your-username/frontend_support_mathminder.git
+cd frontend_support_mathminder
+
+📦 Install Dependencies
+npm install
+
+▶️ Run the App
+npm start
+
+
+
+
