@@ -1,4 +1,4 @@
-# 🌟 **𝑴𝒂𝒕𝒉𝑴𝒊𝒏𝒅𝒆𝒓 – Frontend Support**  
+# **𝑴𝒂𝒕𝒉𝑴𝒊𝒏𝒅𝒆𝒓 – Frontend Support**  
 ### _“Making Math Feel Effortless, Interactive & Beautiful”_
 
 ---
@@ -13,31 +13,31 @@
 
 ##  OVERVIEW
 
-✨ **MathMinder** is a modern frontend project designed to transform the way users interact with mathematics.  
+ **MathMinder** is a modern frontend project designed to transform the way users interact with mathematics.  
 It blends **clean design + intuitive UX + performance** to create an engaging learning experience.
 
-> 💡 _Built for learners, thinkers, and developers who believe math should feel simple._
+> _Built for learners, thinkers, and developers who believe math should feel simple._
 
 ---
 
 ##  FEATURES
 
-🎨 Minimal & elegant UI  
-⚡ Lightning-fast performance  
-📱 Fully responsive design  
-🧩 Modular component structure  
-🧠 Easy-to-use math interface  
-🔄 Scalable architecture  
+ Minimal & elegant UI  
+ Lightning-fast performance  
+ Fully responsive design  
+ Modular component structure  
+ Easy-to-use math interface  
+ Scalable architecture  
 
 ---
 
-## 🧠 TECH STACK
+## TECH STACK
 
 ```bash
-Frontend   → React.js ⚛️
-Styling    → CSS / Tailwind 🎨
-Build Tool → Vite / CRA ⚡
-Versioning → Git & GitHub 🔗
+Frontend   → React.js 
+Styling    → CSS / Tailwind 
+Build Tool → Vite / CRA 
+Versioning → Git & GitHub 
 
 
 
